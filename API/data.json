@@ -1,0 +1,65 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Ronald",
+      "password": "Chandra",
+      "email": "ronaldchandra@gmail.com"
+    },
+    {
+      "id": 2,
+      "username": "Kevin",
+      "password": "Kevin123",
+      "email": "kevin@gmail.com"
+    },
+    
+    {
+      "username": "keroro",
+      "email": "keroro@gmail.com",
+      "password": "abc123",
+      "phone": "0867657326",
+      "id": 7
+    },
+    {
+      "username": "Test",
+      "email": "test@gmail.com",
+      "password": "Test123",
+      "phone": "0812345",
+      "id": 8
+    },
+    {
+      "username": "Liana Lia",
+      "email": "lianalia@gmail.com",
+      "password": "Liana123",
+      "phone": "087786508488",
+      "id": 9
+    }
+  ],
+  "popok": [
+    {
+      "id": 1,
+      "nama": "DIVERGENT",
+      "merk": "AMAZON",
+      "description": "Golongan Manusi",
+      "harga": 1000,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOeCugqCDVa_tG4h-OPDwrRMlCChzDm3Nwm5tupKo-fpUUFY6I"
+      
+    },
+    {
+      "id": 2,
+      "nama": "SI DOEL ANAK SEKOLAHAN",
+      "merk": "SI DOEL",
+      "description": "Anak Betawi Kuliah",
+      "harga": 50000,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT0f25YNC70BkcTWqTlQceFvIneHGCFqUpTSb7ntZxOV25-Dh2kA"
+    },
+    {
+      "id": 3,
+      "nama": "FURIOUS 7",
+      "merk": "Two Fast Two Furious",
+      "description": "Pembalap Liar",
+      "harga": 80000,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ68kQeFyRbkIPDOSPiM8n03c_WNG7N6--ed8H_0Kjd-KfjVmp"
+    }
+  ]
+}
